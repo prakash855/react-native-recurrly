@@ -1,11 +1,11 @@
-import {View, Text} from 'react-native'
+import { Text, View } from "react-native";
 
 const OnBoarding = () => {
-    return (
-        <View>
-            <Text>Onboarding</Text>
-        </View>
-    )
-}
+  return (
+    <View>
+      <Text>Onboarding</Text>
+    </View>
+  );
+};
 
-export default OnBoarding
+export default OnBoarding;
