@@ -7,7 +7,7 @@ import { Image, View, type ImageSourcePropType } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 
 const tabBar = components.tabBar
-tabs.forEach(e => console.log(e))
+
 type TabIconProps = {
     focused: boolean
     icon: ImageSourcePropType
