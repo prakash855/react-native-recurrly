@@ -77,7 +77,7 @@ export default function App() {
                 />
               </View>
 
-              <ListHeading title="All Subscription" />
+              <ListHeading title="All Subscriptions" />
             </>
           )}
           ItemSeparatorComponent={() => <View className="h-4" />}
